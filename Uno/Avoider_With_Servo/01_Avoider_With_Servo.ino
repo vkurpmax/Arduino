@@ -74,7 +74,7 @@ void loop() {
 }
 
 int lookRight(){
-  servo_motor.write(50);
+  myservo.write(50);
   delay(500);
   int distace = readPing();
   delay(500);
@@ -83,7 +83,7 @@ int lookRight(){
 }
 
 int lookLeft() {
-  servo_motor.write(150);
+  myservo.write(150);
   delay(500);
   int distance = readPing();
   delay(100);
