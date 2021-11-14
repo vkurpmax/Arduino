@@ -1,4 +1,6 @@
-/*Created by Vkurpmax
+/*Not applicable
+  
+  Created by Vkurpmax
   as an assignment for Microcontroller S5
   1st November 2021
 */
